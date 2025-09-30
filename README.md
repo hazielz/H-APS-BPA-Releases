@@ -30,15 +30,6 @@ Acompanhe tutoriais, dicas e novidades sobre o sistema no canal oficial:
 
 ---
 
-## 🚀 Como usar
-
-1. Baixe o repositório.
-2. Configure seu ambiente conforme descrito na documentação.
-3. Gere seus arquivos BPA de forma prática!
-
----
-
-
 
 ## 📜 Licença
 
