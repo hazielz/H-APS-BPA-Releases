@@ -25,8 +25,17 @@ Acompanhe tutoriais, dicas e novidades sobre o sistema no canal oficial:
 ## 🖼️ Demonstração
 
 
+![Tela Inicial](H-APS%20BPA%20IMAGENS/inicial.png)
 
-![Demonstração do BPA](https://hazielscript.dev.br/app/LOHO-H-APS-SEM-FUNDO.png)
+![Dashboard](H-APS%20BPA%20IMAGENS/dashboard.png)
+
+![Menu Principal](H-APS%20BPA%20IMAGENS/menu.png)
+
+![Tela de Processamento](H-APS%20BPA%20IMAGENS/telaprocessamento.png)
+
+![Tela de Exportação](H-APS%20BPA%20IMAGENS/telaexportacao.png)
+
+
 
 ---
 
